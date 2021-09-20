@@ -6,7 +6,7 @@ console.log(chalk.bgMagenta(" hello! "+ userName+"  :)"));
 console.log(chalk.green("welcome to do you know aditya quiz"));
 
 
-// function making
+
 
 function play(question , answer){
     var userAnswer = readlineSync.question(question);
